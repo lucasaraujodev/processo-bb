@@ -112,3 +112,12 @@ h6 {
 	background-repeat: no-repeat;
 	background-position: 25% 18%;
 }
+
+.linktree-empresa {
+	width: 120px;
+	height: 120px;
+	background-image: url("./colaboradores/sac-icon.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 25% 18%;
+}
