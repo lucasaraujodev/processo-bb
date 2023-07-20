@@ -98,7 +98,7 @@ h6 {
   .linktree-pr {
 	width: 120px;
 	height: 120px;
-	background-image: url("./pastores/pr-icon.jpg");
+	background-image: url("./pastores-pe/pr-icon.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 25% 18%;
@@ -107,7 +107,7 @@ h6 {
 .linktree-sac {
 	width: 120px;
 	height: 120px;
-	background-image: url("./colaboradores/sac-icon.jpg");
+	background-image: url("./colaboradores-pe/sac-icon.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 25% 18%;
@@ -116,7 +116,7 @@ h6 {
 .linktree-empresa {
 	width: 120px;
 	height: 120px;
-	background-image: url("./pastores/empresa-icon.png");
+	background-image: url("./pastores-pe/empresa-icon.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 25% 18%;
